@@ -6,7 +6,7 @@
 
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # spyguyl2
+   # notaconduit
 
    # Input:
    # p, principal amount
